@@ -1,0 +1,16 @@
+.box{
+	background: #ddd;
+	min-height: 80px;
+	margin-bottom: 20px;
+}
+.custom-class{
+	background: #ddd;
+	min-height: 180px;
+	margin-bottom: 15px;
+}
+.custom-class .col div{
+	background: tomato;
+	padding: 15px;
+	text-align: center;
+	border: 1px solid #333;
+}
